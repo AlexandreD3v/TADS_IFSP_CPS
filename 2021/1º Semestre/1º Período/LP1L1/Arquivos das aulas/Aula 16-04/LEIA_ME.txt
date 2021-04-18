@@ -1,16 +1,9 @@
 Links
-	Aula no Moodle: https://moodle.cmp.ifsp.edu.br/course/view.php?id=1061#section-3
+	Aula no Moodle: https://moodle.cmp.ifsp.edu.br/course/view.php?id=1061#section-4
 
-	Videoconferência - Aula 09/04: https://www.youtube.com/watch?v=wBUURWXQo2o&feature=youtu.be
+	Videoconferência - Aula 16/04: https://www.youtube.com/watch?v=ddntqvicS9Q&feature=youtu.be
+	
+	Aula 03 - Entrada de dados, operadores, constantes e a biblioteca Math.h
+		Moodle: https://moodle.cmp.ifsp.edu.br/pluginfile.php/51693/mod_resource/content/1/LP1I1_2021_1%20-%20Aula%2002%20Bibliotecas_Sa%C3%ADdas_Vari%C3%A1veis.pdf
 
-	Download e instalação do CodeBlocks: https://www.youtube.com/watch?v=CDC1oLp-rQ0
-
-	Aula 01 - Introdução à Linguagem C:
-		Moodle: https://moodle.cmp.ifsp.edu.br/pluginfile.php/48439/mod_resource/content/2/LP1I1_2021_1%20-%20Aula%2001%20Introdu%C3%A7%C3%A3o_linguagem_C.pdf
-
-		Drive: https://drive.google.com/file/d/1B8NdlJCTq5PTSrEtkjWygcgtE6JWDLhy/view?usp=sharing
-
-	Aula 02 - Bibliotecas, Variáveis e Saídas:
- 		Moodle: https://moodle.cmp.ifsp.edu.br/pluginfile.php/51693/mod_resource/content/1/LP1I1_2021_1%20-%20Aula%2002%20Bibliotecas_Sa%C3%ADdas_Vari%C3%A1veis.pdf
-
-		Drive: https://drive.google.com/file/d/1zqJf_YoGqensf48q5eFmWJgKEhUI7kDY/view?usp=sharing
+		Drive: https://drive.google.com/file/d/1Wji1BUMryDbINRC159FBsAhWfeT1rH5P/view?usp=sharing
