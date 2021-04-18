@@ -1,10 +1,8 @@
 #Links:
 
-	<a href="https://moodle.cmp.ifsp.edu.br/course/view.php?id=1056t">Moodle</a>
+	Moodle: https://moodle.cmp.ifsp.edu.br/course/view.php?id=1056
 
-	<a href="https://suap.ifsp.edu.br/edu/sala_virtual/270815/">Suap</a> 
+	Suap: https://suap.ifsp.edu.br/edu/sala_virtual/270815/ 
 
-	<a href="https://chat.whatsapp.com/G2FnMqPW8lTIQK5G2T5pra">WhatsApp</a> 
-
-
+	WhatsApp: https://chat.whatsapp.com/G2FnMqPW8lTIQK5G2T5pra
 
